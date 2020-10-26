@@ -11,4 +11,5 @@ dependencies:
 - ipywidgets
 - ipympl
 - pip:
-  - git+https://github.com/kelidas/bmcs_utils.git
+  #- git+https://github.com/kelidas/bmcs_utils.git
+  - -e .
